@@ -66,11 +66,9 @@ The project achieves promising accuracy across multiple classifiers, demonstrati
 
 ⚙️ Technologies Used
 
-•	Python
+•<b>Python</b>
+<br>
 •	NumPy, Pandas
 •	Matplotlib, Seaborn (for EDA)
 •	Scikit-learn
 •	XGBoost
-👥 Team
-
-X-ROVERS — Final Year B.Tech (CSE) Students
